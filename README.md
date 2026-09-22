@@ -19,3 +19,5 @@ Ce dépôt contient mes travaux dirigés du cours Python & Data Science réalis�
 ## Crédits
 
 Cours de M. Guéry – Faculté d'Économie, UPJV
+
+print(README)
