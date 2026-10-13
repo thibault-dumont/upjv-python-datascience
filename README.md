@@ -16,6 +16,7 @@ Ce dépôt contient mes travaux dirigés du cours Python & Data Science réalis�
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
 | [TD3](td03_enonce.ipynb) | Les bases de Python | :white_check_mark: |
 | [TD4](td04_enonce.ipynb) | Python & Data Science | :white_check_mark: |
+| [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 
 ## Crédits
 
